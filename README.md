@@ -1,4 +1,4 @@
-# Dicee_html
+# Preview
 
 - website : https://jean-yun.github.io/Dicee_html/
 
